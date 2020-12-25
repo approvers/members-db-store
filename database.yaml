@@ -1,0 +1,309 @@
+---
+version: 3
+members:
+  - id: 0252b905-ecdd-49c3-8103-368ef556d66e
+    name: loxygen
+    contacts:
+      twitter: 1142621647976841216
+      github: 55672846
+      discord: 599423913877045258
+  - id: 9a91b7b6-4263-4a33-9193-e4cedbab816d
+    name: いっそう
+    contacts:
+      twitter: 944896178952404992
+      github: 49902177
+      discord: 354996809447505920
+  - id: 5ab2de37-1808-4b38-9957-b8eccb47512b
+    name: 鏡華
+    contacts:
+      twitter: 882614778014740483
+      github: 43880251
+      discord: 585850932198244354
+  - id: 80914a39-1cdf-4fa3-b0cc-4e5d4c59189d
+    name: でみ
+    contacts:
+      twitter: 3010153832
+      github: 20313668
+      discord: 385449156476665856
+  - id: 4c62f06f-d7fd-4ae2-8a3a-4e059c7984c2
+    name: にとふ
+    contacts:
+      twitter: 1106462023074775040
+      github: 39296516
+      discord: 346932779772018689
+  - id: 0f418ed4-ec09-4e41-8994-9444a87e6a58
+    name: Mikuro さいな
+    contacts:
+      twitter: 2532702919
+      github: 10331164
+      discord: 279614913129742338
+  - id: e10719bc-b078-425d-bbd3-0e402e2b4908
+    name: かわえもん
+    contacts:
+      twitter: 799175620596858880
+      github: 34652535
+      discord: 391857452360007680
+  - id: 24905712-0078-4adb-8a68-b86903d4540a
+    name: kakao.
+    contacts:
+      twitter: 1051894681980657664
+      github: 38216541
+      discord: 159936470306521088
+  - id: b766fdbb-bbc5-420d-873e-92323fbf8093
+    name: Siketyan
+    contacts:
+      twitter: 1194852142638460929
+      github: 12772118
+      discord: 220506362197704704
+  - id: 11450c51-09c5-445f-ac69-d115daf9efc2
+    name: raiga0310
+    contacts:
+      twitter: 1116308863878172672
+      github: 44018535
+      discord: 622077711309078529
+  - id: 16d7eadf-829c-4f94-b8a5-7e58be45a244
+    name: Bony Chops
+    contacts:
+      twitter: 4707591200
+      github: 52094083
+      discord: 308554186373464064
+  - id: c0b161b5-84b8-46c5-9b29-75c4d6da6ac1
+    name: ぽちゃまあ
+    contacts:
+      twitter: 2684210670
+      github: 33587064
+      discord: 166128042668851200
+  - id: 35bd3291-65fb-4b2e-b0a6-8b8b5dddb54e
+    name: ゆにおか
+    contacts:
+      twitter: 4383188593
+      github: 52340378
+      discord: 328185048018714624
+  - id: 37816472-13ee-4ca8-9db7-e44e61297a46
+    name: unios103
+    contacts:
+      twitter: 1169893286812643329
+      github: 55628112
+      discord: 620213665685307395
+  - id: 6be77fa2-a469-4eab-9941-3120035761eb
+    name: SHUN / しゅん
+    contacts:
+      twitter: 1022007247214465025
+      github: 37236438
+      discord: 361444721538891776
+  - id: d4189032-ca16-46f7-a704-2dba36a697b1
+    name: sou
+    contacts:
+      twitter: 964831499689246720
+      github: 50014309
+      discord: 603591881317810207
+  - id: 227d3390-77eb-4fea-a464-6fbc3ad47f40
+    name: たひ
+    contacts:
+      twitter: 1008169354041544705
+      github: 48989381
+      discord: 417946155767431169
+  - id: ce8ebd4f-bf5c-4254-964f-44d9033cb00b
+    name: おのかちお
+    contacts:
+      twitter: 797264228239507456
+      github: 14256420
+      discord: 392149074008080384
+  - id: bc6540ec-3ad1-4e19-8159-e29fe4bb1f7c
+    name: おりかげ
+    contacts:
+      twitter: 1194454589484883968
+      github: ~
+      discord: 396665337619152898
+  - id: 0d23a296-b3d8-45d0-b95d-dd4e80a13b66
+    name: かさごん
+    contacts:
+      twitter: 890169201289183232
+      github: 38357172
+      discord: 492619137101594625
+  - id: c8e84e15-8710-48c6-9af1-087540c35833
+    name: てぃけ
+    contacts:
+      twitter: 876061842749050880
+      github: ~
+      discord: 404644329169092608
+  - id: 4d8376a5-b894-40b3-8cbc-66dff5539709
+    name: ねこ（はせがわ）
+    contacts:
+      twitter: ~
+      github: ~
+      discord: 394831848733409281
+  - id: 9c38ac46-fccd-495d-9b71-d54eb84fe2ab
+    name: watαno
+    contacts:
+      twitter: 4494443234
+      github: 45062199
+      discord: 401429991616675852
+  - id: 65ad58b5-27e3-4d4b-adc5-442c9971e35a
+    name: 某さん
+    contacts:
+      twitter: 1076623274275028993
+      github: 44631106
+      discord: 465433493388656651
+  - id: 38032822-e97f-445e-8416-62be0026d195
+    name: Yu
+    contacts:
+      twitter: ~
+      github: ~
+      discord: 624987065586548740
+  - id: 695ca68e-cad8-4a80-a182-a8f4872b745b
+    name: かんたろう
+    contacts:
+      twitter: 906861487653662720
+      github: 39588288
+      discord: 322708384761511936
+  - id: dbb7cc9d-00cd-4d67-9f59-fb33d051c784
+    name: チャハーン
+    contacts:
+      twitter: 1098852544682455040
+      github: 49513840
+      discord: 403791237229838367
+  - id: 96c953e6-4d96-497f-be87-7b47e99135d3
+    name: フレキシブル基板
+    contacts:
+      twitter: 779660971652501505
+      github: 43064745
+      discord: 407446665927065601
+  - id: 78ee0fcd-1dc1-4c80-a9b0-664e4a03da40
+    name: Lockdef
+    contacts:
+      twitter: 1025153147717574658
+      github: 40243059
+      discord: 436139577246351360
+  - id: 1f19d1fb-4798-429f-8b80-9fe1e205d54e
+    name: ぬーべすと
+    contacts:
+      twitter: 1122912368021737472
+      github: 53614631
+      discord: 603487410487296000
+  - id: c0a5c7c1-8a56-426e-b382-accce1762fb5
+    name: fof
+    contacts:
+      twitter: 1132943077562245121
+      github: ~
+      discord: 594480355881517062
+  - id: 53f7bf58-7fdf-43de-a812-9f93ab752e17
+    name: Lino_Ren
+    contacts:
+      twitter: 1106063224326127617
+      github: ~
+      discord: 568775118172717067
+  - id: 138af419-6b5d-498c-b16b-b93ed74f17c5
+    name: 寄り目
+    contacts:
+      twitter: 1002183622479114240
+      github: ~
+      discord: 568043117937164288
+  - id: f05b7dec-bdd9-466e-a18b-2f30ce8d6fc5
+    name: 柚月えふ
+    contacts:
+      twitter: 1280220925300838400
+      github: ~
+      discord: 596121630930108426
+  - id: 94024fd0-1c9d-4a2d-835f-bc208a2efa90
+    name: ソーシ
+    contacts:
+      twitter: 970208714446725120
+      github: 58943100
+      discord: 585424179709607940
+  - id: f31a362b-3235-476b-be86-d70c9b682490
+    name: Laminne33569
+    contacts:
+      twitter: 1056506601304031234
+      github: 40442980
+      discord: 487393376078004225
+  - id: 6bfc4277-2e5b-4473-b889-6a8c7fad3964
+    name: 白兎
+    contacts:
+      twitter: 1175987049288986624
+      github: ~
+      discord: 676319964776366080
+  - id: add61737-7010-4d3b-9e97-b54394bc7d7b
+    name: Nanai10a
+    contacts:
+      twitter: 1249212406187745281
+      github: 62282295
+      discord: 723382133388738601
+  - id: 43572f6b-c8d1-4f19-9a59-f03ee3382541
+    name: 西行響希
+    contacts:
+      twitter: 1099900820638715904
+      github: 43987522
+      discord: 564053314757722112
+  - id: f4178ba4-c841-4acf-9400-da8e1ca4cb88
+    name: とすあっぷ
+    contacts:
+      twitter: 1231194934327201794
+      github: 65478744
+      discord: 481973628670312450
+  - id: 39b752b2-5abc-4c5e-9737-757c37e390c9
+    name: Nii
+    contacts:
+      twitter: 1224982654132486145
+      github: ~
+      discord: 708685022160224328
+  - id: acf86683-3dc6-4faa-95be-faaea5b3de86
+    name: しぐま
+    contacts:
+      twitter: 1231377606471118849
+      github: 66453922
+      discord: 688227388907323472
+  - id: bf8f1323-eadb-42aa-833f-d5a55810d012
+    name: 宮野 慧
+    contacts:
+      twitter: 3146168454
+      github: 12165058
+      discord: 282528078264270860
+  - id: afa94720-49b1-48da-a07d-70b2ddda81ea
+    name: ねんね
+    contacts:
+      twitter: 1214568364309282816
+      github: 66162556
+      discord: 668335439425568778
+  - id: 44d73d92-6909-4f95-8876-672e81625a4f
+    name: りゅうと
+    contacts:
+      twitter: 1151767416529010688
+      github: ~
+      discord: 611777749119664158
+  - id: 555d9dd2-8e83-49c1-b342-bdefab4a9f03
+    name: Yusuke
+    contacts:
+      twitter: 894425628987936770
+      github: ~
+      discord: 485419723106942986
+  - id: 1378bcc6-f356-45ba-8755-1a8416d90a47
+    name: えぬ
+    contacts:
+      twitter: 1116621807866400768
+      github: ~
+      discord: 521958252280545280
+  - id: 482e222e-27de-4542-af8d-17600420198d
+    name: Okaka
+    contacts:
+      twitter: ~
+      github: ~
+      discord: 400572672708182017
+  - id: 0d00e0aa-5ed6-423e-8b21-1fade2490750
+    name: なぎねる
+    contacts:
+      twitter: 841909836413599745
+      github: ~
+      discord: 518064015679946773
+  - id: 2d57dedb-a688-4089-99a4-cc47d4b7fa5b
+    name: こるく
+    contacts:
+      twitter: 1143516189743652864
+      github: 53868423
+      discord: 554985192549515264
+  - id: 0925ae68-d414-473b-a3e0-9e8e40dac483
+    name: ko
+    contacts:
+      twitter: 1140239137590501377
+      github: 60608740
+      discord: 637556016975708163
